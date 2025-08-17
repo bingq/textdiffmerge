@@ -1,16 +1,16 @@
- # MacMerge Privacy Policy
+ # DiffMerge Privacy Policy
 
   ## Data Collection
-  MacMerge does not collect, store, or transmit any personal data or user information.
+  DiffMerge does not collect, store, or transmit any personal data or user information.
 
-  ## How MacMerge Works
+  ## How DiffMerge Works
   - All file comparisons and merges are performed locally on your device
   - No data is sent to external servers or third parties
   - No analytics, tracking, or telemetry is implemented
   - No user accounts, registration, or personal information required
 
   ## File Access
-  MacMerge only accesses files that you explicitly select through the macOS file picker. These files remain on your device
+  DiffMerge only accesses files that you explicitly select through the macOS file picker. These files remain on your device
   and are not transmitted anywhere.
 
   ## Contact
