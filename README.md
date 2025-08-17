@@ -1,12 +1,12 @@
 
 
- # MacMerge
+ # DiffMerge
 
   Professional file comparison and merge tool for macOS.
 
   ## Overview
 
-  MacMerge is a powerful, intuitive file comparison and merge application designed specifically for macOS. Built with
+  DiffMerge is a powerful, intuitive file comparison and merge application designed specifically for macOS. Built with
   SwiftUI, it provides developers, writers, and anyone working with text files an elegant solution for comparing and merging
    file differences.
 
@@ -38,7 +38,7 @@
 
   ## Installation
 
-  Download MacMerge from the [Mac App Store](https://apps.apple.com/app/macmerge).
+  Download DiffMerge from the [Mac App Store](https://apps.apple.com/app/DiffMerge).
 
   ## Usage
 
@@ -75,7 +75,7 @@
 
   ## Privacy
 
-  MacMerge respects your privacy:
+  DiffMerge respects your privacy:
   - **No data collection**: Your files stay on your device
   - **No internet connection required**: Fully offline operation
   - **Sandbox compliant**: Secure file access following Apple's guidelines
