@@ -1,12 +1,12 @@
 
 
- # DiffMerge
+ # TextDiffMerge
 
   Professional file comparison and merge tool for macOS.
 
   ## Overview
 
-  DiffMerge is a powerful, intuitive file comparison and merge application designed specifically for macOS. Built with
+  TextDiffMerge is a powerful, intuitive file comparison and merge application designed specifically for macOS. Built with
   SwiftUI, it provides developers, writers, and anyone working with text files an elegant solution for comparing and merging
    file differences.
 
